@@ -1,2 +1,0 @@
-[console_scripts]
-mail = mail_script:main
